@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Majuliaz/Majuliaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Maria Júlia
+Information Systems student passionate about programming and always exploring new technologies. I love games, series, reading good books, and going to parks. I'm a fast learner who enjoys solving problems and collaborating on projects.
+## Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcbdb?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/júlia-santana-610759243) [![GitHub](https://img.shields.io/badge/GitHub-ffcbdb?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEUUSERNAME) [![Gmail](https://img.shields.io/badge/Gmail-ffcbdb?style=for-the-badge&logo=gmail&logoColor=black)](mailto:SEUGMAIL)
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-ffcbdb?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-ffcbdb?style=for-the-badge&logo=css3&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-ffcbdb?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-ffcbdb?style=for-the-badge&logo=openjdk&logoColor=black) ![Python](https://img.shields.io/badge/python-ffcbdb?style=for-the-badge&logo=python&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-ffcbdb?style=for-the-badge&logo=sqlite&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-ffcbdb?style=for-the-badge&logo=windows&logoColor=black) ![Android](https://img.shields.io/badge/Android-ffcbdb?style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/iOS-ffcbdb?style=for-the-badge&logo=ios&logoColor=black) ![Git](https://img.shields.io/badge/GIT-ffcbdb?style=for-the-badge&logo=git&logoColor=black)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majuliaz&theme=transparent&bg_color=ffcbdb&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color=000)
+## Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=majuliaz&repo=dio-lab-open-source&bg_color=ffcbdb&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color=000)](https://github.com/Majuliaz/dio-lab-open-source)
